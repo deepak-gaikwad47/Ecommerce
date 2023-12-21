@@ -1,2 +1,4 @@
-# Ecommerce
-AN ecommerce app with Node with express js and React in froentend
+
+// PM2
+// Nginx
+// AWS EC2
